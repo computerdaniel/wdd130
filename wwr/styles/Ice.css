@@ -1,0 +1,31 @@
+#content {
+    width: 33%;
+    margin: 0 auto;
+    text-align: center;
+}
+body {
+    background-color: goldenrod;
+  }
+
+  h1{
+    color: navy;
+  }
+h2 {
+    color: brown
+}
+p {
+    color: brown;
+    padding: 1em;
+  }
+ol {
+    color: whitesmoke;
+    padding: 2em;
+}
+
+img{
+    width: 60%;
+}
+
+p.reference {
+    color: teal;
+}

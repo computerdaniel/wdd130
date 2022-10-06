@@ -1,9 +1,10 @@
-.para{
-    font-size: 1.5em;
-    line-height: 1.5em;
+body{
+    text-align: center;
 }
 
+
 a {
+    margin: 40px;
     background-color: blue;
     font-size: 1.5em;
     color: white;
@@ -14,4 +15,19 @@ a {
 #active {
     background-color: white;
     color: steelblue;
+}
+h1{
+    color: aquamarine;
+}
+
+img{
+    width: 80%;
+    
+}
+
+
+ .para{
+    font-size: 1.5em;
+    line-height: 1.5em;
+    width: 80%;
 }
