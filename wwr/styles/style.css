@@ -1,0 +1,36 @@
+content{
+max-width: 1600px;
+text-align: center;
+}
+
+#background{
+    height: 725px;
+}
+
+body{
+    background-color: aliceblue;
+    text-align: center;
+}
+
+header {
+    background-color: aquamarine;
+}
+
+nav a:hover{
+    background-color: rgb(216, 17, 227);
+    color: blue;
+}
+
+.logo{
+    width: 80px;
+}
+
+nav a{
+    text-align: center;
+    color: crimson;
+    text-decoration: none;
+}
+
+footer p a:hover{
+    text-decoration: underline;
+}
