@@ -10,6 +10,8 @@ text-align: center;
 body{
     background-color: aliceblue;
     text-align: center;
+    padding: 0;
+    margin: 0;
 }
 
 header {
@@ -29,8 +31,37 @@ nav a{
     text-align: center;
     color: crimson;
     text-decoration: none;
+    padding: 35px;
 }
 
 footer p a:hover{
     text-decoration: underline;
+}
+
+.home-title {
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 2em;
+    
+}
+
+.book{
+    font-size: 18px;
+    margin-top: 50px;
+}
+
+.msg p{
+    font-size: .8em;
+}
+
+.msg{
+    background-color: #6f7364;
+    line-height: 1.5em;
+}
+
+h2{
+    margin: 0;
+}
+
+.card-img{
+    border: 10px solid lightskyblue;
 }
