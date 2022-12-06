@@ -1,0 +1,38 @@
+.head{
+    display: grid;
+    grid-template-columns: 100px auto;
+    align-items:center;
+}
+
+.logo{
+    width: 80px;
+}
+
+.pic,.png{
+ width: 40%;
+ margin: 40px;
+ 
+}
+
+.drums{
+   
+}
+
+.drumset{
+    font-size: 40px;
+}
+
+.page{
+    font-size: 40px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+footer{
+    display: flex;
+    justify-content: space-around;
+}
+
