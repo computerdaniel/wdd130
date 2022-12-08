@@ -1,3 +1,9 @@
+#content{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+
 .head{
     display: grid;
     grid-template-columns: 100px auto;
@@ -10,29 +16,51 @@
 
 .pic,.png{
  width: 40%;
- margin: 40px;
+ margin: 50px;
  
 }
 
 .drums{
-   
+   margin: 0 auto;
+   width: 90%;
 }
 
-.drumset{
+.drumset,.page{
     font-size: 40px;
+    margin:  40px;
 }
 
-.page{
+.setup{
     font-size: 40px;
+    margin: 40px;
+    margin-bottom: 100px;
+    
 }
+
+#hero-image{
+    margin: 0 auto;
+   width: 100%;
+   margin-bottom: 80px;
+}
+
 
 nav{
     display: flex;
     justify-content: space-around;
+
+}
+
+nav a{
+    color: black;
+    font-size: 2em;
 }
 
 footer{
     display: flex;
     justify-content: space-around;
+}
+
+footer a{
+    color: black;
 }
 
