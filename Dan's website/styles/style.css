@@ -49,16 +49,16 @@
    margin-bottom: 80px;
 }
 
-.Drums{
+.Drum{
     width: 100%;
-    margin: 40px;
-    margin: 0 auto;
+    margin: 40px auto;
+    display: block ;
 }
 
 .dad{
     width: 70%;
-   margin: 50px;
-   margin: 0 auto;
+   margin: 40px auto;
+   display: block;
 }
 
 
