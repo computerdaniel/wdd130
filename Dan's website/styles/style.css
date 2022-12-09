@@ -8,7 +8,10 @@
     display: grid;
     grid-template-columns: 100px auto;
     align-items:center;
+    
 }
+
+
 
 .logo{
     width: 80px;
@@ -50,7 +53,7 @@
 }
 
 .Drum{
-    width: 100%;
+    width: 80px;
     margin: 40px auto;
     display: block ;
 }
@@ -65,7 +68,7 @@
 nav{
     display: flex;
     justify-content: space-around;
-
+    
 }
 
 nav a{
